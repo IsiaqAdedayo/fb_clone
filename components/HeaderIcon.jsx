@@ -8,5 +8,4 @@ const HeaderIcon = ({ Icon, active }) => {
     )
 }
 
-export default HeaderIcon
- z
+export default HeaderIcon;
